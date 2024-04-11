@@ -1,7 +1,8 @@
 # LLM与多模态入门、理论、实战
-感兴趣可以关注：
+🔥🔥🔥感兴趣可以关注：
 
 1、[CSDN]（https://blog.csdn.net/xddwz?type=blog）
+
 2、微信公众号：【CV与NLP探秘】
 
 ## 大模型从入门到实战
